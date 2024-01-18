@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    display: inline-block; /* or 'block' if you prefer */
+    width: 200px; /* Fixed width */
+    height: 50px; /* Fixed height */
+    text-align: center; /* Center text horizontally */
+    line-height: 50px; /* Center text vertically, should be the same as height */
+    cursor: pointer;
+    margin: 10px; /* Adds space around the buttons */
+    font-size: 16px;
+    border: 1px solid #000; /* Adds border */
+    background-color: #f5f5f5; /* Background color */
+    overflow: hidden; /* Ensures text doesn't overflow */
+    white-space: nowrap; /* Prevents text from wrapping */
+}
+
+.button:hover {
+    background-color: #ddd; /* Color change on hover */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
