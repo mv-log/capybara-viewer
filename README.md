@@ -1,5 +1,15 @@
 # Capybara Image Viewer
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Capybara Image" width="300" height="300"/>
+</p>
+
+<p align="center">
+  <a href="https://mv-log.github.io/capybara-viewer/">[Try Capybara Viewer]</a>
+</p>
+
+
+
 ## About This Project
 
 This project, titled "Capybara Image Viewer," is a web-based application developed as part of my learning journey in web development with the assistance of ChatGPT. It's designed to showcase various features relevant to Capybaras - the world's largest rodent, known for its friendly and sociable nature. This application is perfect for those who share a love for capybaras and wish to see random images of these adorable creatures.
