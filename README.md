@@ -49,6 +49,8 @@ git clone https://github.com/mv-log/mv-log.github.io.git
 
 This project is part of my ongoing learning in web development. It's been an incredible journey of understanding how web technologies work together to create interactive and fun web applications. Building this project with guidance from ChatGPT has been an invaluable part of my learning process.
 
+- [2024/01/18](learning_logs/20240118.md): The start of project. Set up a basic site from scratch.
+
 ## Acknowledgments
 
 - Images are fetched using Flickr's API.
