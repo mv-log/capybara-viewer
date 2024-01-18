@@ -1,22 +1,22 @@
-# Capybara Image Viewer
+# Capybara Lucky Viewer
 
 <p align="center">
   <img src="assets/banner.jpg" alt="Capybara Image" width="300" height="300"/>
 </p>
 
 <p align="center">
-  <a href="https://mv-log.github.io/capybara-viewer/">[Try Capybara Viewer]</a>
+  <a href="https://mv-log.github.io/capybara-viewer/">[Try Capybara Lucky Viewer]</a>
 </p>
 
 
 
 ## About This Project
 
-This project, titled "Capybara Image Viewer," is a web-based application developed as part of my learning journey in web development with the assistance of ChatGPT. It's designed to showcase various features relevant to Capybaras - the world's largest rodent, known for its friendly and sociable nature. This application is perfect for those who share a love for capybaras and wish to see random images of these adorable creatures.
+This project, titled "Capybara Lucky Viewer," is a web-based application developed as part of my learning journey in web development with the assistance of ChatGPT. It's designed to showcase various features relevant to Capybaras - the world's largest rodent, known for its friendly and sociable nature. This application is perfect for those who share a love for capybaras and wish to see random images of these adorable creatures.
 
 ## Key Features
 
-- **Random Capybara Images**: On the click of a button, view random images of capybaras sourced from Flickr's API.
+- **Random Capybara Images**: On the click of a button, try your luck and view a random image of capybaras sourced from Flickr's API.
 - **Dual-Option Viewing**: Choose between two options - Capybara or Corgi images, catering to the interests of animal lovers.
 - **Dynamic Content**: Each button click fetches a new, random image from the respective category.
 - **Interactive UI**: Simple and user-friendly interface, making it easy for anyone to enjoy.
@@ -27,7 +27,9 @@ The application uses JavaScript to fetch random images from Flickr's API based o
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps:
+- Click [here](https://mv-log.github.io/capybara-viewer/) to try Capybara Lucky Viewer online.
+
+- To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
 
